@@ -1,0 +1,46 @@
+Actions------
+
+Misc: Pass through key to main window
+
+Tempo match: Toggle on/off
+
+Action: Set action loop start (only valid within custom actions)
+
+Script: js_Mouse editing - Draw basic LFO curves in real time.lua
+
+Script: mpl_Play from item under mouse cursor.lua
+
+Markers: Insert region from time selection and edit...
+
+Custom: move item time selection toggle
+
+Tempo envelope: Insert tempo/time signature change marker at edit cursor...
+
+085-S1100@_NEW_ORLEANS_STOMP_85_BPM
+
+reaper.Main_OnCommand(40290, 0) -- Time selection: Set time selection to items
+
+Set tempo shape options
+
+SWS/S&M: Trigger preset for selected FX of selected track (MIDI/OSC only)
+
+Generate track volume automation item from audio take
+
+Action skip next action if CC parameter less than 0 or mid
+
+Item navigation: Select and move to item in next track without changing track selection
+
+15.10 Keyboard Shortcuts for the MIDI Editor
+
+Switch item source file to random in folder
+
+Move items to timecode (in filename)
+
+Time selection: Shift right (by time selection length)
+
+FX...................................... 
+VOLA2(Sonic Anomaly)
+MIDI Note Hold
+TiaR_Chua Oscillator.jsfx
+JS:BPM calculator
+JS:Phase Rotator
