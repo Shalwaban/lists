@@ -1,0 +1,178 @@
+bright	hell
+small	klein
+big	groß
+later	später
+there	dort
+how much	wieviel [alt]
+here	hier
+with <w/>	mit [+Dat.] <m.>
+straight ahead	geradeaus
+to the right	nach rechts
+to the left [movement, look etc.]	nach links
+I'm a stranger here.	Ich bin fremd hier.
+I am from Austria.	Ich bin aus Österreich.
+Germany <.de>	Deutschland {n}
+Switzerland <.ch>	Schweiz {f}
+Do you have ... ?	Haben Sie ... ? [formelle Anrede]
+How much is it?	Wie viel macht es?
+The bill please!	Bitte zahlen!
+I don't know. <idk, IDK>	Ich weiß (es) nicht.
+Enjoy your meal!	Guten Appetit!
+You are welcome!	Gern geschehen!
+No problem! <np>	Kein Problem!
+Excuse me, please!	Entschuldigen Sie bitte! [formelle Anrede]
+Cheers!	Zum Wohl!
+Bless you! [after sneezing]	Gesundheit! [nach dem Niesen]
+How are you doing?	Wie geht es Ihnen? [formelle Anrede]
+What's up? [Am.] [coll.]	Wie geht's? [ugs.]
+Come on!	Komm schon!
+Let's go!	Lass uns gehen!
+to pay	zahlen
+bill	Rechnung {f} [schriftliche Kostenforderung]
+toilet [bowl; room; process of washing oneself, dressing, and attending to one's appearance]	Toilette {f} [Klosettbecken; Raum; geh.: das Sichankleiden bzw. Sichzurechtmachen]
+restroom [Am.] [toilet in a public building]	Toilette {f} [Raum (in einem öffentlichen Gebäude)]
+petrol station [Br.]	Tankstelle {f}
+gas station [Am.]	Tankstelle {f}
+help	Hilfe {f}
+Stop!	Stopp!
+doctor	Arzt {m}
+socket [wall socket]	Steckdose {f}
+beer	Bier {n}
+wine	Wein {m}
+coffee	Kaffee {m}
+milk	Milch {f}
+tea	Tee {m}
+water <H2O, H-O-H, HOH>	Wasser {n} <H2O, H-O-H>
+bread	Brot {n}
+soup	Suppe {f}
+salad	Salat {m} [Zubereitung]
+rice	Reis {m}
+salt	Salz {n}
+pepper	Pfeffer {m}
+sugar	Zucker {m}
+fish	Fisch {m}
+chicken	Huhn {n}
+pork	Schweinefleisch {n}
+beef	Rindfleisch {n}
+lamb	Lammfleisch {n}
+cake	Kuchen {m}
+ice cream	Eis {n} [kurz für: Speiseeis]
+candy	Süßigkeit {f}
+starter [Br.]	Vorspeise {f}
+main course	Hauptgericht {n}
+dessert	Nachtisch {m}
+purple	violett
+blue	blau
+dark blue	dunkelblau
+light green	hellgrün
+brown	braun
+silver	silbern
+golden	golden
+black	schwarz
+pink	rosa
+red	rot
+white	weiß
+orange	orange
+green	grün
+yellow	gelb
+one	eins
+two	zwei
+three	drei
+four	vier
+five	fünf
+six	sechs
+seven	sieben
+eight	acht
+nine	neun
+ten	zehn
+eleven	elf
+twelve	zwölf
+thirteen	dreizehn
+fourteen	vierzehn
+fifteen	fünfzehn
+sixteen	sechzehn
+seventeen	siebzehn
+eighteen	achtzehn
+nineteen	neunzehn
+twenty	zwanzig
+twenty-one	einundzwanzig
+thirty	dreißig
+forty	vierzig
+fifty	fünfzig
+sixty	sechzig
+seventy	siebzig
+eighty	achtzig
+ninety	neunzig
+hundred	hundert
+two hundred	zweihundert
+thousand	tausend
+woman	Frau {f}
+women	Frauen {pl}
+man [male]	Mann {m}
+men	Männer {pl}
+boy	Junge {m}
+boys	Jungen {pl}
+girl	Mädchen {n}
+girls	Mädchen {pl}
+child	Kind {n}
+children	Kinder {pl}
+family	Familie {f} <Fam.>
+daughter	Tochter {f}
+son	Sohn {m}
+sister	Schwester {f}
+mother	Mutter {f}
+mum [Br.] [coll.]	Mama {f}
+father	Vater {m}
+dad [coll.]	Papa {m} [ugs.]
+parents	Eltern {pl}
+grandmother	Großmutter {f}
+grandma [coll.]	Oma {f} [ugs.]
+grandfather	Großvater {m}
+grandpa [coll.]	Opa {m} [ugs.]
+grandparents	Großeltern {pl}
+granddaughter	Enkeltochter {f}
+grandson	Enkelsohn {m}
+grandchild	Enkel {m} [regional auch: {n}]
+cousin	Cousin {m}
+cousin [female]	Cousine {f}
+aunt	Tante {f}
+uncle	Onkel {m}
+niece	Nichte {f}
+nephew	Neffe {m}
+friend	Freund {m} [Freundschaft]
+boyfriend <bf>	Freund {m} [Liebesbeziehung]
+girlfriend <gf> [sweetheart or lover]	Freundin {f} [Liebesbeziehung]
+fiancé	Verlobter {m}
+fiancée	Verlobte {f}
+bride	Braut {f} [am Hochzeitstag, oder sogar nur unmittelbar vor und nach der Trauung]
+groom [bridegroom]	Bräutigam {m}
+wife	Ehefrau {f}
+husband	Ehemann {m}
+spouse	Ehegatte {m} [geh.] [Ehemann; jur. auch: einer der beiden Ehepartner]
+sister-in-law	Schwägerin {f}
+brother-in-law	Schwager {m}
+I don't understand.	Ich verstehe nicht.
+to / on the right	rechts
+to / on the left	links
+hot [also fig.]	heiß [auch fig.]
+dark [also fig]	dunkel [auch fig.]
+
+yes	ja
+no	nein
+Please! <PLS, PLZ>	Bitte!
+Thank you!	Danke!
+good	gut
+bad	schlecht
+and <&>	und <u., &>
+or	oder <o., od.>
+Hello!	Hallo!
+Sorry!	Entschuldigung!
+Bye! [coll.]	Tschüss! [ugs.]
+Good bye!	Auf Wiedersehen!
+Good morning! [early]	Guten Morgen!
+Good afternoon!	Guten Tag! [nachmittags]
+Good evening!	Guten Abend!
+cold	kalt
+warm	warm
+
+
